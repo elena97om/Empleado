@@ -1,1 +1,1 @@
-GIT
+https://www.liquidweb.com/kb/committing-pushing-github-ubuntu-18-04/
